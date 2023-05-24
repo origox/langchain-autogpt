@@ -1,2 +1,2 @@
-# Langchan - Auto GPT
+# Langchain - AutoGPT
 
